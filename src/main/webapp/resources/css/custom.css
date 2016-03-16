@@ -1,0 +1,40 @@
+
+body{
+    padding-top: 70px;
+
+}
+
+.tab-pane{
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 0.8em;
+}
+
+td{
+    word-break: break-word;
+}
+
+#tab_items .table {
+    font-size: small;
+}
+
+.popover .table {
+    font-size: small;
+}
+.popover{
+    max-width: 1170px;
+}
+
+.notes{
+    font-size: 12px;
+    word-break: normal;
+    word-wrap: break-word;
+    white-space: pre-line;
+    overflow: auto;
+    max-height: 200px;
+}
+
+.tab-content .table{
+    font-size: smaller;
+}
